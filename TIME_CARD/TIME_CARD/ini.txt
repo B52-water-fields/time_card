@@ -1,0 +1,8 @@
+output     = timecard.csv
+u_id0000   = SYSTEM
+u_id0001   = 水野　智朗
+u_id0002   = 今川　義元
+u_id0003   = 織田　信長
+u_id0005   = 徳川　家康
+u_id0004   = 豊臣　秀吉
+u_id0006   = 真田　幸村
